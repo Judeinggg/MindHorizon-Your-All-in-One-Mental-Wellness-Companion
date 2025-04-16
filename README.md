@@ -1,4 +1,4 @@
-# MindHorizon-Your-All-in-One-Mental-Wellness-Companion
+# Zenjott-Your-All-in-One-Mental-Wellness-Companion
 
 
 ## Overview
